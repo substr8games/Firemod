@@ -4,7 +4,7 @@ Fireshit is a handcrafted utility suite for **Wayfire on Arch Linux**, combining
 
 ## License
 
-Firemod 1.1 is source-available software distributed under the **Fireshit Capture Immunity License, Version 0.1**. Inspection, local execution, modification, community redistribution, and independent interoperability are permitted under the license. Proprietary capture, paid rehosting, closed redistribution, and unauthorized commercial packaging are prohibited.
+Firemod 1.1 is source-available software distributed under the **Firemod Capture Immunity License, Version 0.2**. Inspection, local execution, modification, community redistribution, and independent interoperability are permitted under the license. Proprietary capture, paid rehosting, closed redistribution, and unauthorized commercial packaging are prohibited.
 
 ## Build and installation
 
@@ -23,8 +23,8 @@ The installer preserves existing user configuration. Active SUBSTR8 HUD configur
 
 The public documentation opens on the project overview and includes a second tab for the complete searchable reference guide:
 
-**[Read the Fireshit documentation](https://substr8games.github.io/Fireshit/)**
+**[Read the Firemod documentation](https://substr8games.github.io/Firemod/)**
 
-![Fireshit — Fire tools for Wayfire Compositor](images/image4.png)
+![Firemod — Fire tools for Wayfire Compositor](images/image4.png)
 
 Project steward and licensing authority: **Giz@SUBSTR8Games**
