@@ -1,11 +1,11 @@
-# Fireshit Capture Immunity License
-## Version 0.1
+# Firemod Capture Immunity License
+## Version 0.2
 
 Copyright © 2026 Giz@SUBSTR8Games. All rights reserved.
 
 ### 0. Purpose and Status
 
-The Fireshit Capture Immunity License exists to permit inspection, local execution, modification, compilation, community development, and independent interoperability while preventing proprietary capture of the Fireshit software suite.
+The Firemod Capture Immunity License exists to permit inspection, local execution, modification, compilation, community development, and independent interoperability while preventing proprietary capture of the Firemod software suite.
 
 This is a source-available license. It is not an open-source license and must not be represented as one.
 
@@ -17,7 +17,7 @@ No rights are granted except those expressly stated in this License.
 
 **You** means the individual or legal entity exercising permissions granted by this License.
 
-**Covered Software** means the first-party Fireshit source code, executable code, build material, documentation, and other files expressly distributed under this License. It excludes material carrying a separate valid third-party or file-specific license notice.
+**Covered Software** means the first-party Firemod source code, executable code, build material, documentation, and other files expressly distributed under this License. It excludes material carrying a separate valid third-party or file-specific license notice.
 
 **Modified Version** means any work that copies, changes, translates, adapts, incorporates, or is derived from any copyrightable portion of the Covered Software.
 
@@ -48,7 +48,7 @@ Commercial businesses, nonprofit organizations, public institutions, and individ
 
 Internal use does not become Capture merely because the user operates a business or receives economic benefit from work performed using the Covered Software.
 
-Internal use does not include offering Fireshit functionality to customers, clients, subscribers, or other Third Parties.
+Internal use does not include offering Firemod functionality to customers, clients, subscribers, or other Third Parties.
 
 ### 4. Capture Prohibited
 
@@ -79,11 +79,11 @@ You may not embed, preinstall, bundle, or distribute the Covered Software or a M
 - subscription offering; or
 - managed deployment.
 
-This restriction does not prohibit a user from independently installing Fireshit on hardware or an operating system of their choice.
+This restriction does not prohibit a user from independently installing Firemod on hardware or an operating system of their choice.
 
 #### 4.4 Competitive Capture
 
-You may not use the Covered Software, a Modified Version, or a substantial portion of its source code to provide or market a proprietary, paid, or otherwise commercially enclosed product or service whose primary purpose is to replace Fireshit or provide substantially equivalent Fireshit functionality to Third Parties.
+You may not use the Covered Software, a Modified Version, or a substantial portion of its source code to provide or market a proprietary, paid, or otherwise commercially enclosed product or service whose primary purpose is to replace Firemod or provide substantially equivalent Firemod functionality to Third Parties.
 
 This provision does not prohibit noncommercial community redistribution permitted by Sections 5 and 6. It also does not prohibit an independently implemented work that does not copy, incorporate, or use the Covered Software.
 
@@ -117,7 +117,7 @@ You may redistribute unmodified copies of the Covered Software without charge wh
 2. the Corresponding Source is included or made available through a stable, prominent location;
 3. all notices remain intact;
 4. the software is not presented as your own original work;
-5. no Fireshit trademark or official-status claim is used beyond factual attribution; and
+5. no Firemod trademark or official-status claim is used beyond factual attribution; and
 6. the redistribution is not Capture.
 
 Charging only the unavoidable direct cost of physical transfer media is permitted.
@@ -126,12 +126,12 @@ Charging only the unavoidable direct cost of physical transfer media is permitte
 
 You may distribute a Modified Version without charge when:
 
-1. the entire Modified Version containing Fireshit code remains subject to this exact License;
+1. the entire Modified Version containing Firemod code remains subject to this exact License;
 2. the Corresponding Source for the Modified Version is provided;
 3. modified files are prominently identified;
 4. the modification date and modifier are identified;
 5. the Modified Version uses a distinct product name unless the Licensor gives written permission;
-6. the Modified Version does not claim to be an official Fireshit release; and
+6. the Modified Version does not claim to be an official Firemod release; and
 7. the distribution is not Capture.
 
 The requirements of this section apply only to the Covered Software and Modified Versions containing or derived from Covered Software code.
@@ -142,16 +142,16 @@ They do not extend to Independent Works.
 
 An Independent Work does not become Covered Software merely because it:
 
-- launches or controls Fireshit;
-- communicates with Fireshit through command-line interfaces;
+- launches or controls Firemod;
+- communicates with Firemod through command-line interfaces;
 - uses documented APIs, IPC, sockets, D-Bus interfaces, protocols, or file formats;
-- consumes output produced by Fireshit;
-- supplies input to Fireshit;
+- consumes output produced by Firemod;
+- supplies input to Firemod;
 - implements a documented plugin or extension interface without copying Covered Software code;
 - reproduces only the minimum interface declarations, schemas, protocol constants, or stubs reasonably necessary for lawful interoperability;
 - is installed on the same system;
-- is distributed separately for use with Fireshit; or
-- describes itself factually as compatible with Fireshit.
+- is distributed separately for use with Firemod; or
+- describes itself factually as compatible with Firemod.
 
 The author of an Independent Work may license that work under any terms they choose.
 
@@ -161,7 +161,7 @@ This safe harbor does not apply when Covered Software code, assets, or substanti
 
 Charging for independent labor involving installation, configuration, training, maintenance, or support is permitted when:
 
-1. the charge is for the labor rather than for a copy of or access to Fireshit;
+1. the charge is for the labor rather than for a copy of or access to Firemod;
 2. the recipient retains all rights granted by this License;
 3. the Covered Software remains freely obtainable;
 4. no proprietary restriction is placed on the Covered Software; and
@@ -169,15 +169,15 @@ Charging for independent labor involving installation, configuration, training, 
 
 ### 9. Names, Marks, and Brand Assets
 
-This License grants no ownership or general license to use the names, marks, logos, icons, graphical identity, or official designations of Fireshit, Firemod, FrameTap, SUBSTR8 HUD, Firestate, or related projects.
+This License grants no ownership or general license to use the names, marks, logos, icons, graphical identity, or official designations of Firemod, Firemod, FrameTap, SUBSTR8 HUD, Firestate, or related projects.
 
 Unmodified Brand Assets may be reproduced only as necessary to operate or redistribute an exact, authorized copy of the Covered Software.
 
 Brand Assets may not be extracted, remixed, recolored, repurposed, or used to identify a Modified Version or unrelated product without written permission.
 
-Factual attribution and factual compatibility statements remain governed by applicable law and the separate Fireshit Marks and Compatibility Policy.
+Factual attribution and factual compatibility statements remain governed by applicable law and the separate Firemod Marks and Compatibility Policy.
 
-Only the Licensor may designate a release, fork, package, integration, or extension as official, certified, approved, endorsed, or supported by Fireshit.
+Only the Licensor may designate a release, fork, package, integration, or extension as official, certified, approved, endorsed, or supported by Firemod.
 
 ### 10. Patent License and Patent Defense
 
@@ -212,7 +212,7 @@ A separate agreement applies only to the parties and software expressly identifi
 
 This License applies only in the exact version identified with the Covered Software.
 
-No person other than the Licensor may publish a revised license using the name “Fireshit Capture Immunity License.”
+No person other than the Licensor may publish a revised license using the name “Firemod Capture Immunity License.”
 
 A later version does not apply to an earlier release unless the Licensor expressly relicenses that release.
 
@@ -234,6 +234,6 @@ If a provision of this License is held unenforceable, it shall be narrowed only 
 
 All rights not expressly granted are reserved by the Licensor.
 
-Fireshit is defended software.
+Firemod is defended software.
 
 The boundary imposed by this License is defensive architecture: users may inspect it, run it, modify it, repair it, extend it, and build independent tools around it. No person or organization may convert that access into proprietary ownership, closed redistribution, paid rehosting, or commercial enclosure.
