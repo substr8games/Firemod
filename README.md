@@ -1,6 +1,6 @@
 # Firemod 1.1
 
-Fireshit is a handcrafted utility suite for **Wayfire on Arch Linux**, combining persistent telemetry, application/output/region capture, and unified suite settings through three focused projects: **SUBSTR8 HUD**, **FrameTap**, and **Firemod**.
+Firemod is a handcrafted utility suite for **Wayfire on Arch Linux**, combining persistent telemetry, application/output/region capture, and unified suite settings through three focused projects: **SUBSTR8 HUD**, **FrameTap**, and **Firemod**.
 
 ## License
 
